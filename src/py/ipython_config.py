@@ -1,0 +1,3 @@
+c.InteractiveShellApp.extensions = [
+    'sql'
+]

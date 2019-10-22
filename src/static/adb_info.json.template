@@ -1,0 +1,8 @@
+{
+      "dbuser" : "<db_user_id>",
+      "password" : "<db_password>",
+      "database_name" : "database_name",
+      "profile" : "low|medium|high",
+      "adb_compartment_ocid" : "<compartment_ocid>",
+      "wallet_file_name" : "<wallet_file_name>"
+}

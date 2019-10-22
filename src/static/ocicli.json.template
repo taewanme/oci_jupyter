@@ -1,0 +1,6 @@
+{
+      "user_ocid" : "<user_ocid>",
+      "tenancy_ocid" : "<tenancy_ocid>",
+      "region_id" : "<region_id>",
+      "private_key_name" : "None"
+}
